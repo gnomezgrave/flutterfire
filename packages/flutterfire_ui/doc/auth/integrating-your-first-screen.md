@@ -184,7 +184,7 @@ README of the `google_sign_in` plugin.
 Additionally, ensure that the Google provider is enabled in the [Firebase Console](https://console.firebase.google.com/project/_/authentication/providers):
 
 <Image
-  src="ui-google-provider.jpg"
+  src="../images/ui-google-provider.jpg"
   alt="Enable Google Provider"
   caption={false}
 />
